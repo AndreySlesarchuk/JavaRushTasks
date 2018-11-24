@@ -1,2 +1,2 @@
 # javarush
-Javarush
+JavaRushTasks
